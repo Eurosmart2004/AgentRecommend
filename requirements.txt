@@ -1,0 +1,5 @@
+swarms
+streamlit
+swarm_models
+google-genai
+langchain_community
